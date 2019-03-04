@@ -61,6 +61,10 @@ public class UserProfile
         this.genre = genre;
     }
     
+    public String[] getGenreList() {
+        return genres;
+    }
+    
     
     
     
